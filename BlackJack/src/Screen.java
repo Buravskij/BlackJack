@@ -214,6 +214,7 @@ public class Screen extends javax.swing.JFrame {
     }//GEN-LAST:event_NPCResultActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
+        JOptionPane.showMessageDialog(null, "Jusu rezultatas issaugotas. \n Geros Dienos!");
         System.exit(0);
     }//GEN-LAST:event_jButton3ActionPerformed
 
